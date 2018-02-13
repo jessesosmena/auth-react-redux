@@ -1,0 +1,6 @@
+[submodule "laravel_backend"]
+	path = laravel_backend
+	url = https://github.com/jessyosmena/laravel_backend
+[submodule "react_frontend"]
+	path = react_frontend
+	url = https://github.com/jessyosmena/react_frontend
