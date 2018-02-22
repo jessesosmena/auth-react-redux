@@ -2,19 +2,24 @@ Demo: https://desolate-headland-52669.herokuapp.com/
 
 # A React-Redux application, using json web token authentication/Laravel RESTful API server
 
-Frontend
+react_frontend
 
 ``` bash 
 
-# install packages
+Build Setup
+
+# install dependencies
 npm install
 
-# Laravel development server started on http://localhost:8000. Now you can point your browser to http://localhost:8000
-php artisan serve 
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
 
 ```
 
-Backend
+laravel_backend
 
 ``` bash 
 
