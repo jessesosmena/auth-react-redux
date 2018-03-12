@@ -2,6 +2,8 @@ Demo: https://desolate-headland-52669.herokuapp.com/
 
 # A React-Redux application, using json web token authentication/Laravel RESTful API server
 
+To ensure you download everything, including any submodules use git clone --recursive
+
 react_frontend
 
 ``` bash 
