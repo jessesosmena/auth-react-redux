@@ -1,6 +1,6 @@
-#Demo: https://desolate-headland-52669.herokuapp.com/
+#Demo: https://vast-meadow-73926.herokuapp.com/
 
-# A React-Redux application, using json web token authentication/Laravel RESTful API server
+# Auth with Crud operation in React-Redux using json web token authentication and Laravel RESTful API 
 
 To ensure you download everything, including any submodules use git clone --recursive
 
@@ -14,7 +14,7 @@ Build Setup
 npm install
 
 # serve with hot reload at localhost:8080
-npm run dev
+npm start
 
 # build for production with minification
 npm run build
