@@ -1,6 +1,6 @@
 #Demo: https://vast-meadow-73926.herokuapp.com/
 
-# Auth + Crud, ReactJS/Redux using json web token authentication 
+# oauth-jwt-crud-reactjs-redux-laravel-
 
 To ensure you download everything, including any submodules use git clone --recursive
 
