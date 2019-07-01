@@ -1,10 +1,10 @@
-#Demo: https://vast-meadow-73926.herokuapp.com/
+# Demo: https://vast-meadow-73926.herokuapp.com/
 
 # oauth-jwt-crud-reactjs-redux-laravel-
 
 To ensure you download everything, including any submodules use git clone --recursive
 
-react_frontend
+react frontend
 
 ``` bash 
 
@@ -21,7 +21,7 @@ npm run build
 
 ```
 
-laravel_backend
+laravel backend
 
 ``` bash 
 
